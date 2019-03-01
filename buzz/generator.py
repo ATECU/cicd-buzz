@@ -1,7 +1,7 @@
 from __future__ import print_function
 import random
 
-buzz = ('continuous testing', 'continuous integration',
+buzz = ('continuous testisssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssng', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
@@ -22,4 +22,4 @@ def generate_buzz():
 
 if __name__ == "__main__":
     print(generate_buzz())
-    print('sadasdsadad')
+    print('sadasdsadaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd')
